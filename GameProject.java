@@ -61,7 +61,7 @@ public class GameProject extends Application
       bp.setTop(top); 
       bp.setBottom(bottom);  
       
-      //idk if i still need this and im too lazy to check rn :)  
+      //change gaps if neccasary later  
       center.setHgap(.001);
       center.setVgap(0);
    
